@@ -11,7 +11,7 @@ Estudante de **Ciências Atuariais na UFMG**. Gosto de transformar matemática a
 |---|---|---|
 | [**Simulador de Aposentadoria**](https://github.com/HadassaSM/simulador-aposentadoria) · [▶ abrir](https://hadassasm.github.io/simulador-aposentadoria/) | Calcula a reserva para uma renda vitalícia e o aporte mensal necessário, com gráfico interativo | React · TypeScript · Vite · Recharts · Vitest |
 | [**Atuária API**](https://github.com/HadassaSM/atuaria-api) | API REST com tábua de vida, anuidades, seguros e plano de aposentadoria, validada contra valores da literatura | Python · FastAPI · pytest · Docker |
-| [**Calculadora Previdenciária**](https://github.com/HadassaSM/calculadora-previdenciaria) | Lê o extrato do CNIS em PDF, compara as regras de transição da EC 103/2019 e gera um relatório técnico | Python · Streamlit · pandas · fpdf2 |
+| [**Calculadora Previdenciária**](https://github.com/HadassaSM/calculadora-previdenciaria) · [▶ abrir](https://calculadora-previdenciaria.streamlit.app/) | Lê o extrato do CNIS em PDF, compara as regras de transição da EC 103/2019 e gera um relatório técnico | Python · Streamlit · pandas · fpdf2 |
 
 ### 🧰 Tecnologias
 
